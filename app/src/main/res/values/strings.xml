@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">MyUdemyApp</string>
     <string name="go">GO</string>
+    <string name="textview4">TextView</string>
 </resources>
